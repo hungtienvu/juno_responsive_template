@@ -1,4 +1,4 @@
-<h1>Responsive Boilerplate</h1>
+<h1>A Simple Html Template For Startup New Project</h1>
 A starting point to responsive web design!
 
 =======================================================================
