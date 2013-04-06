@@ -22,22 +22,12 @@ Include in the package: PSD Template, HTML5 starting point file for fast develop
 One line of Javascript turns your nav in a beautfull mobile optmized menu.
 Using HEAD.js to load others libs.
 
-------------------------------------------------------------------------
-<h1>Sublime Text Package</h1>
-
-Available a set of Sublime Text snippets on <a href="https://github.com/newaeonweb/ResponsiveBoilerplateSnippets">Github</a>.
-
-
 
 ------------------------------------------------------------------------
 <h1>How to use</h1>
 
 Very easy to use and understand, but a minimum knowledge of HTML & CSS must be required.
 Follow the steps...
-
-- We <b>strongly</b> recommend the use of the index.html file included in the download package.
-- So after the <a href="https://github.com/newaeonweb/responsiveboilerplate/archive/master.zip">download</a>, place your content like the example:
-
 
 <pre><code>
 &lt;!--Container Class to centralize your grid--&gt;
@@ -71,10 +61,7 @@ Please welcome. We do not claim to be the best, we are just trying to help an op
 
 ------------------------------------------------------------------------
 <h1>More Infos</h1>
+<a href="mailto:hung@junowebdesign.com">Steve Vu</a>
 
 
-www.responsiveboilerplate.com
 
-Developer: feiochc@gmail.com
-Twitter: <a href="https://twitter.com/@newaeonweb">@newaeonweb</a>
-Google Plus: <a href="https://plus.google.com/102311871192373469721/posts">Fernando Monteiro</a>
