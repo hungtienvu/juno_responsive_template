@@ -24,13 +24,6 @@
 
 .inner-contents {padding: 0 14px;background: #fff;overflow: hidden;}
 
-.container {
-	width: 92%;
-	margin-left: 4%;
-	margin-right: 4%;
-	display: inline-block;
-}
-
 /* #Colummns
 ================================================================================================= */
 .col1, .col2, .col3, .col4, .col5, .col6, .col7, .col8, .col9, .col10, .col11, .col12 {
@@ -84,83 +77,22 @@ nav select {display: none;}
 .clearfix:after {clear: both; content: ' '; display: block; font-size: 0; line-height: 0; visibility: hidden; width: 0; height: 0; } .clearfix {display: inline-block;} * html .clearfix {height: 1%; } .clearfix {display: block; } /* General small screen Mobile
 ============================================================================================== */
 /*Main Style*/
-body {background:url(../images/bg.jpg) center center fixed no-repeat;
-	  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-	font-family:Arial, sans-serif;
-	line-height: normal;}
+body {}
+.contents {width: 960px;}
+
 /*Header*/
 #header {}
 
 
 /*Body*/
 #body {}
-<<<<<<< HEAD
-=======
 
->>>>>>> new
 
 /*Footer*/
 #footer {}
-<<<<<<< HEAD
 
 
-/*Page-navi
-.page-navi {float: right;font-size: 11px;}
-.page-navi span.label {float: left;color: #424242;}
-.page-navi ul {float: right;}
-.page-navi ul li {float: left;margin-left: 7px;}
-.page-navi ul li a {color: #424242;}
-.page-navi ul li a:hover {text-decoration: underline;}
-.page-navi ul li a.bt {background: url(../images/page-navi-bt.png) 0 3px no-repeat;display: block;text-indent: -9999px;width: 5px;height: 12px;}
-.page-navi ul li a.prev {margin-right: 5px;}
-.page-navi ul li a.next {background-position: 0 -9px;margin-left: 5px;}
-.page-navi ul li.current a {text-decoration: underline;font-weight: bold;}*/
 
-
-/*blog-single
-.blog-single {}
-.blog-single .social-share {display: block;width: 100%;overflow: hidden;}
-.blog-single .content {width: 100%;clear: both;margin-top: 15px;overflow: hidden;}
-.blog-single .content h1 {font-size: 20px;color: #205824;margin:0px 0 5px;display: block;line-height: normal;font-family: 'HelveticaNeueLTPro-Bd';}
-.blog-single .content img {margin-bottom: 15px;}
-.blog-single .content p {font-size: 13px;color: #4b4b4b;margin-bottom: 20px;}
-.blog-single .content p a {color: #000;}
-.blog-single .content p a:hover {text-decoration: underline;}
-.blog-single .meta {font-weight: bold;font-size: 13px;color: #205824;margin-bottom: 20px;display: block;}
-.blog-single .meta a {color: #205824;}
-.blog-single .author {border: 3px solid #f4f4f6; padding:22px 18px 22px;overflow: hidden;}
-.blog-single .author .author-info {width: 83.4%;}
-.blog-single .author .author-info strong.title {font-size: 13px;font-weight: bold;color: #205824;}
-.blog-single .author .author-info .position {font-size: 12px;display: block;margin-bottom: 10px;}
-.related {margin-top: 33px;padding-top: 28px;border-top: 1px solid #d8d8d8;}
-.related ul li {overflow: hidden;margin-bottom: 18px;padding-right: 20px;}
-.related ul li img {float: left;margin-right: 13px;}
-.related ul li a {font-size: 13px;color: #205824;font-weight: bold;margin-bottom:5px;display: block;}
-.related ul li a:hover,.comment-list ul li span a:hover {text-decoration: underline;}
-.related h2 ,
-.comment-list h2 {font-size: 20px;color: #205824;font-family: 'HelveticaNeueLTPro-Bd';margin-bottom:20px;}
-.comment-list h2 {float: left;}
-.comment-list .post-comment {float: right;color: #fff;font-size: 11px;font-weight: bold;display: block;text-align: center;padding: 3px 7px;background: #2c4722;}
-.comment-list {margin-top: 33px;padding-top: 28px;border-top: 1px solid #d8d8d8;}
-.comment-list ul {clear: both;}
-.comment-list ul li {overflow: hidden;margin-bottom: 18px;padding-right: 20px;}
-.comment-list ul li span {font-size: 13px;color: #205824;font-weight: bold;}
-.comment-list ul li span a {color: #205824;}
-#comment-form {background: #fff;padding: 20px;width: 400px;}
-#comment-form h2 {font-size: 20px;color: #205824;font-family: 'HelveticaNeueLTPro-Bd';float: left;margin-bottom: 10px;}
-#comment-form .b-close {font-size: 13px;float: right;margin-top: -10px;}
-#comment-form ul li {float: left;clear: both;margin-bottom: 10px;}
-#comment-form ul li label {font-size: 13px;float: left;clear: both;width: 100%;padding-bottom: 5px;}
-#comment-form ul li input ,
-#comment-form ul li textarea {border:1px solid #d8d8d8;font-size: 11px;padding: 4px 5px;width: 388px;}
-#comment-form ul li.last input {width: 100px;padding: 6px 7px;
-background: #2c4722;font-weight: bold;color: #fff;border: none;cursor: pointer;}*/
-=======
-
->>>>>>> new
 
 /* Custom sizes
 ============================================================================================== */
